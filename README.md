@@ -22,8 +22,6 @@ small introduction
 [![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)](https://www.typescriptlang.org/) &nbsp;
 [![JavaScript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &nbsp;
 
----
-
 ### **Web Development**
 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)](https://getbootstrap.com/) &nbsp;
@@ -36,13 +34,9 @@ small introduction
 [![React Native](https://img.shields.io/badge/-React_native-05122A?style=flat&logo=react)](https://reactnative.dev/) &nbsp;
 [![TailwindCSS](https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=tailwind-css)](https://tailwindcss.com/) &nbsp;
 
----
-
 ### **Databases**
 
 [![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)](https://www.mysql.com/) &nbsp;
-
----
 
 ### **Data Science**
 
@@ -52,27 +46,19 @@ small introduction
 [![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)](https://pandas.pydata.org/) &nbsp;
 [![Scipy](https://img.shields.io/badge/-SciPy-05122A?style=flat&logo=scipy)](https://www.scipy.org/) &nbsp;
 
----
-
 ### **Machine Learning**
 
 [![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=PyTorch)](https://pytorch.org/) &nbsp;
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow)](https://www.tensorflow.org/) &nbsp;
-
----
 
 ### **Version Control**
 
 [![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)](https://git-scm.com/) &nbsp;
 [![GitHub](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github)](https://github.com/) &nbsp;
 
----
-
 ### **Hardware/IoT**
 
 [![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=Arduino)](https://www.arduino.cc/) &nbsp;
-
----
 
 ### **Design Tools**
 
