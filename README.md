@@ -30,14 +30,14 @@ small introduction
 ![Canva](https://img.shields.io/badge/Canva-05122A?style=flat&logo=Canva)
 ![Gimp](https://img.shields.io/badge/Gimp-05122A?style=flat&logo=gimp)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-05122A?style=flat&logo=Matplotlib)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch)
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino)
+![NumPy](https://img.shields.io/badge/numpy-05122A?style=flat&logo=numpy)
+![Pandas](https://img.shields.io/badge/pandas-05122A?style=flat&logo=pandas)
+![PyTorch](https://img.shields.io/badge/PyTorch-05122A?style=flat&logo=PyTorch)
+![Scipy](https://img.shields.io/badge/SciPy-05122A?style=flat&logo=scipy)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-05122A?style=flat&logo=TensorFlow)
+![Git](https://img.shields.io/badge/git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/github-05122A?style=flat&logo=github)
+![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=Arduino)
 
 # 📊 GitHub Stats:
 
