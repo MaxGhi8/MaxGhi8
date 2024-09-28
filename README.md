@@ -13,6 +13,7 @@ small introduction
 # 💻 Tech Stack:
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) &nbsp;
+![LEAN](https://img.shields.io/badge/-LEAN-05122A?style=flat&logo=lean) &nbsp;
 ![Julia](https://img.shields.io/badge/-Julia-05122A?style=flat&logo=julia) &nbsp;
 ![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript) &nbsp;
 ![JavaScript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript) &nbsp;
@@ -21,7 +22,6 @@ small introduction
 ![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?style=flat&logo=latex) &nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown) &nbsp;
 
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) &nbsp;
 ![React Native](https://img.shields.io/badge/-React_native-05122A?style=flat&logo=react) &nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase) &nbsp;
 ![Expo](https://img.shields.io/badge/-Expo-05122A?style=flat&logo=expo) &nbsp;
