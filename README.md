@@ -17,17 +17,15 @@
 
 # 💻 Tech Stack:
 
-### **Programming Languages**
+#### **Programming Languages**
 
 [![Julia](https://img.shields.io/badge/-Julia-05122A?style=flat&logo=julia)](https://julialang.org/) &nbsp;
 [![LEAN](https://img.shields.io/badge/-LEAN-05122A?style=flat&logo=lean)](https://leanprover.github.io/) &nbsp;
-[![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?style=flat&logo=latex)](https://www.latex-project.org/) &nbsp;
-[![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)](https://daringfireball.net/projects/markdown/) &nbsp;
 [![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)](https://www.python.org/doc/) &nbsp;
 [![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)](https://www.typescriptlang.org/) &nbsp;
 [![JavaScript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &nbsp;
 
-### **Web Development**
+#### **Web Development**
 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)](https://getbootstrap.com/) &nbsp;
 [![CSS3](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS) &nbsp;
@@ -39,7 +37,7 @@
 [![React Native](https://img.shields.io/badge/-React_native-05122A?style=flat&logo=react)](https://reactnative.dev/) &nbsp;
 [![TailwindCSS](https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=tailwind-css)](https://tailwindcss.com/) &nbsp;
 
-### **Data Science**
+#### **Data Science**
 
 [![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda)](https://www.anaconda.com/) &nbsp;
 [![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=Matplotlib)](https://matplotlib.org/) &nbsp;
@@ -47,28 +45,43 @@
 [![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)](https://pandas.pydata.org/) &nbsp;
 [![Scipy](https://img.shields.io/badge/-SciPy-05122A?style=flat&logo=scipy)](https://www.scipy.org/) &nbsp;
 
-### **Machine Learning**
+#### **Machine Learning**
 
+[![JAX](https://img.shields.io/badge/-JAX-05122A?style=flat&logo=google)](https://jax.readthedocs.io/en/latest/) &nbsp;  
 [![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=PyTorch)](https://pytorch.org/) &nbsp;
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow)](https://www.tensorflow.org/) &nbsp;
 
-### **Version Control**
+#### **Version Control and Scientific Programs**
 
 [![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)](https://git-scm.com/) &nbsp;
 [![GitHub](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github)](https://github.com/) &nbsp;
+[![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?style=flat&logo=latex)](https://www.latex-project.org/) &nbsp;
+[![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)](https://daringfireball.net/projects/markdown/) &nbsp;
 
-### **Databases**
+#### **IDEs**
+
+[![Google Colab](https://img.shields.io/badge/-Google_Colab-05122A?style=flat&logo=googlecolab)](https://colab.research.google.com/) &nbsp;
+[![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-05122A?style=flat&logo=jupyter)](https://jupyter.org/) &nbsp;  
+[![Overleaf](https://img.shields.io/badge/-Overleaf-05122A?style=flat&logo=overleaf)](https://www.overleaf.com/) &nbsp;  
+[![Spyder](https://img.shields.io/badge/-Spyder-05122A?style=flat&logo=spyder)](https://docs.spyder-ide.org/) &nbsp;  
+[![TeXStudio](https://img.shields.io/badge/-TeX_Studio-05122A?style=flat&logo=texstudio)](https://www.texstudio.org/) &nbsp;  
+[![Vim](https://img.shields.io/badge/-Vim-05122A?style=flat&logo=vim)](https://www.vim.org/) &nbsp;  
+[![Visual Studio](https://img.shields.io/badge/-Visual_Studio-05122A?style=flat&logo=visualstudio)](https://visualstudio.microsoft.com/) &nbsp;
+
+#### **Databases**
 
 [![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)](https://www.mysql.com/) &nbsp;
 
-### **Hardware**
+#### **Hardware**
 
 [![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=Arduino)](https://www.arduino.cc/) &nbsp;
 
-### **Design Tools**
+#### **Design Tools**
 
-[![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=Canva)](https://www.canva.com/) &nbsp;
-[![Gimp](https://img.shields.io/badge/-Gimp-05122A?style=flat&logo=gimp)](https://www.gimp.org/) &nbsp;
+[![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=Canva)](https://www.canva.com/) &nbsp;  
+[![DaVinci Resolve](https://img.shields.io/badge/-DaVinci_Resolve-05122A?style=flat&logo=blackmagicdesign)](https://www.blackmagicdesign.com/products/davinciresolve/) &nbsp;  
+[![OBS Studio](https://img.shields.io/badge/-OBS_Studio-05122A?style=flat&logo=obsstudio)](https://obsproject.com/) &nbsp;  
+[![Paint.NET](https://img.shields.io/badge/-Paint.NET-05122A?style=flat&logo=paintdotnet)](https://www.getpaint.net/) &nbsp;
 
 # 📊 GitHub Stats:
 
