@@ -1,8 +1,13 @@
+![BannerPNG](https://github.com/MaxGhi8/MaxGhi8/blob/main/banner.png)
+
 # 👨🏻‍💻 About Me
 
-small introduction
+💡 &nbsp; I’m a PhD student in Mathematics at the University of Pavia, specializing in the application of **neural operators** to approximate partial differential equations (PDEs).\
+🎓 &nbsp; I hold a BSc and MSc in Mathematics from the University of Pavia. My research interests include **scientific computing**, **numerical methods**, and the intersection of mathematics and informatics.\
+💻 &nbsp; In my free time, I enjoy playing **volleyball**, **Valorant**, **horse riding**, and deepening my knowledge of **informatics**.\
+✍️ &nbsp; Feel free to reach out for collaborations or discussions on these topics. You can contact me at **massimiliano.ghiotto00@gmail.com**.\
 
-# 📫 How to reach me:
+# 💬 How to reach me:
 
 <a href="mailto:massimiliano.ghiotto00@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail"/></a> &nbsp;
 <a href="https://youtube.com/@UCriyKfaUh1k8QgyN8cCwx4A"><img alt="YouTube" src="https://img.shields.io/badge/-YouTube-05122A?style=flat&logo=YouTube"/></a> &nbsp;
@@ -34,10 +39,6 @@ small introduction
 [![React Native](https://img.shields.io/badge/-React_native-05122A?style=flat&logo=react)](https://reactnative.dev/) &nbsp;
 [![TailwindCSS](https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=tailwind-css)](https://tailwindcss.com/) &nbsp;
 
-### **Databases**
-
-[![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)](https://www.mysql.com/) &nbsp;
-
 ### **Data Science**
 
 [![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda)](https://www.anaconda.com/) &nbsp;
@@ -56,7 +57,11 @@ small introduction
 [![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)](https://git-scm.com/) &nbsp;
 [![GitHub](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github)](https://github.com/) &nbsp;
 
-### **Hardware/IoT**
+### **Databases**
+
+[![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)](https://www.mysql.com/) &nbsp;
+
+### **Hardware**
 
 [![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=Arduino)](https://www.arduino.cc/) &nbsp;
 
