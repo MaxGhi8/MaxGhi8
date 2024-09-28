@@ -12,15 +12,9 @@ small introduction
 
 # 💻 Tech Stack:
 
-<a href="https://docs.python.org/">
-  <img alt="Python" src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" />
-</a>
-<a href="https://leanprover.github.io/">
-  <img alt="LEAN" src="https://img.shields.io/badge/-LEAN-05122A?style=flat&logo=lean" />
-</a>
-<a href="https://julialang.org/">
-  <img alt="Julia" src="https://img.shields.io/badge/-Julia-05122A?style=flat&logo=julia" />
-</a>
+[![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)](https://www.python.org/doc/)
+[![LEAN](https://img.shields.io/badge/-LEAN-05122A?style=flat&logo=lean)](https://leanprover.github.io/)
+[![Julia](https://img.shields.io/badge/-Julia-05122A?style=flat&logo=julia)](https://julialang.org/)
 
 <a href="https://www.typescriptlang.org/">
   <img alt="TypeScript" src="https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript"/>
