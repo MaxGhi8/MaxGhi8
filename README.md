@@ -8,9 +8,9 @@ small introduction
 
 # 💻 Tech Stack:
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python)
-![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat&logo=julia)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript)
+![Python](https://img.shields.io/badge/python-05122A?style=flat&logo=python)
+![Julia](https://img.shields.io/badge/-Julia-05122A?style=flat&logo=julia)
+![TypeScript](https://img.shields.io/badge/typescript-%05122A.svg?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3)
