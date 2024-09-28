@@ -6,11 +6,12 @@
 🎓 &nbsp; I hold a BSc and MSc in Mathematics from the University of Pavia. My research interests include **scientific computing**, **numerical methods**, and the intersection of mathematics and informatics.\
 💻 &nbsp; In my free time, I enjoy playing **volleyball**, **Valorant**, **horse riding**, and deepening my knowledge of **informatics**.\
 ✍️ &nbsp; Feel free to reach out for collaborations or discussions on these topics. You can contact me at **massimiliano.ghiotto00@gmail.com**.\
-💬 How to reach me: <a href="mailto:massimiliano.ghiotto00@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail"/></a> &nbsp;
+💬 How to reach me:
+
+<a href="mailto:massimiliano.ghiotto00@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail"/></a> &nbsp;
 <a href="https://youtube.com/@UCriyKfaUh1k8QgyN8cCwx4A"><img alt="YouTube" src="https://img.shields.io/badge/-YouTube-05122A?style=flat&logo=YouTube"/></a> &nbsp;
 <a href="https://www.linkedin.com/in/Massimiliano-Ghiotto/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-05122A?&style=flat&logo=linkedin"/></a> &nbsp;
-
-<!-- <a href="https://instagram.com/mateMATTIci"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-05122A?logo=Instagram&logoColor=white"/></a> &nbsp; -->
+<a href="https://instagram.com/mateMATTIci"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-05122A?logo=Instagram"/></a> &nbsp;
 
 # 💻 Tech Stack:
 
