@@ -41,7 +41,15 @@ small introduction
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=MaxGhi8&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxGhi8&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxGhi8&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="195px"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=MaxGhi8&theme=dark&hide_border=false&include_all_commits=false&count_private=true" height="195px"/>
+    </td>
+  </tr>
+</table>
 
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=MaxGhi8&theme=dark&hide_border=false)<br/> -->
