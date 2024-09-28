@@ -12,7 +12,9 @@ small introduction
 
 # 💻 Tech Stack:
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) &nbsp;
+<a href="https://docs.python.org/">
+  <img alt="Python" src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" />
+</a> &nbsp;
 ![LEAN](https://img.shields.io/badge/-LEAN-05122A?style=flat&logo=lean) &nbsp;
 ![Julia](https://img.shields.io/badge/-Julia-05122A?style=flat&logo=julia) &nbsp;
 ![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript) &nbsp;
