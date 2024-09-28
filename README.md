@@ -12,111 +12,42 @@ small introduction
 
 # 💻 Tech Stack:
 
-[![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)](https://www.python.org/doc/)
-[![LEAN](https://img.shields.io/badge/-LEAN-05122A?style=flat&logo=lean)](https://leanprover.github.io/)
-[![Julia](https://img.shields.io/badge/-Julia-05122A?style=flat&logo=julia)](https://julialang.org/)
+[![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)](https://www.python.org/doc/) &nbsp;
+[![LEAN](https://img.shields.io/badge/-LEAN-05122A?style=flat&logo=lean)](https://leanprover.github.io/) &nbsp;
+[![Julia](https://img.shields.io/badge/-Julia-05122A?style=flat&logo=julia)](https://julialang.org/) &nbsp;
+[![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)](https://www.typescriptlang.org/) &nbsp;
+[![JavaScript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &nbsp;
+[![HTML5](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML) &nbsp;
+[![CSS3](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS) &nbsp;
+[![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?style=flat&logo=latex)](https://www.latex-project.org/) &nbsp;
+[![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)](https://daringfireball.net/projects/markdown/) &nbsp;
 
-<a href="https://www.typescriptlang.org/">
-  <img alt="TypeScript" src="https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript"/>
-</a> &nbsp;
+[![React Native](https://img.shields.io/badge/-React_native-05122A?style=flat&logo=react)](https://reactnative.dev/) &nbsp;
+[![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)](https://firebase.google.com/) &nbsp;
+[![Expo](https://img.shields.io/badge/-Expo-05122A?style=flat&logo=expo)](https://expo.dev/) &nbsp;
+[![NPM](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm)](https://www.npmjs.com/) &nbsp;
+[![P5js](https://img.shields.io/badge/-p5.js-05122A?style=flat&logo=p5.js)](https://p5js.org/) &nbsp;
+[![TailwindCSS](https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=tailwind-css)](https://tailwindcss.com/) &nbsp;
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)](https://getbootstrap.com/) &nbsp;
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript"/>
-</a> &nbsp;
+[![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)](https://www.mysql.com/) &nbsp;
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5"/>
-</a> &nbsp;
+[![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=Canva)](https://www.canva.com/) &nbsp;
+[![Gimp](https://img.shields.io/badge/-Gimp-05122A?style=flat&logo=gimp)](https://www.gimp.org/) &nbsp;
 
-<a href="https://www.w3.org/Style/CSS/">
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3"/>
-</a> &nbsp;
+[![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda)](https://www.anaconda.com/) &nbsp;
+[![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=Matplotlib)](https://matplotlib.org/) &nbsp;
+[![NumPy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy)](https://numpy.org/) &nbsp;
+[![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)](https://pandas.pydata.org/) &nbsp;
+[![Scipy](https://img.shields.io/badge/-SciPy-05122A?style=flat&logo=scipy)](https://www.scipy.org/) &nbsp;
 
-<a href="https://www.latex-project.org/">
-  <img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-05122A?style=flat&logo=latex"/>
-</a> &nbsp;
+[![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=PyTorch)](https://pytorch.org/) &nbsp;
+[![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow)](https://www.tensorflow.org/) &nbsp;
 
-<a href="https://www.markdownguide.org/">
-  <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown"/>
-</a> &nbsp;
+[![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)](https://git-scm.com/) &nbsp;
+[![GitHub](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github)](https://github.com/) &nbsp;
 
-<a href="https://reactnative.dev/">
-  <img alt="React Native" src="https://img.shields.io/badge/-React_native-05122A?style=flat&logo=react"/>
-</a> &nbsp;
-
-<a href="https://firebase.google.com/">
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase"/>
-</a> &nbsp;
-
-<a href="https://expo.dev/">
-  <img alt="Expo" src="https://img.shields.io/badge/-Expo-05122A?style=flat&logo=expo"/>
-</a><a href="https://www.npmjs.com/">
-  <img alt="NPM" src="https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm"/>
-</a> &nbsp;
-
-<a href="https://p5js.org/">
-  <img alt="P5.js" src="https://img.shields.io/badge/-p5.js-05122A?style=flat&logo=p5.js"/>
-</a> &nbsp;
-
-<a href="https://tailwindcss.com/">
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=tailwind-css"/>
-</a> &nbsp;
-
-<a href="https://getbootstrap.com/">
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap"/>
-</a> &nbsp;
-
-<a href="https://www.mysql.com/">
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql"/>
-</a> &nbsp;
-
-<a href="https://www.canva.com/">
-  <img alt="Canva" src="https://img.shields.io/badge/-Canva-05122A?style=flat&logo=Canva"/>
-</a> &nbsp;
-
-<a href="https://www.gimp.org/">
-  <img alt="Gimp" src="https://img.shields.io/badge/-Gimp-05122A?style=flat&logo=gimp"/>
-</a> &nbsp;
-
-<a href="https://www.anaconda.com/">
-  <img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda"/>
-</a> &nbsp;
-
-<a href="https://matplotlib.org/">
-  <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=Matplotlib"/>
-</a> &nbsp;
-
-<a href="https://numpy.org/">
-  <img alt="NumPy" src="https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy"/>
-</a> &nbsp;
-
-<a href="https://pandas.pydata.org/">
-  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas"/>
-</a> &nbsp;
-
-<a href="https://scipy.org/">
-  <img alt="SciPy" src="https://img.shields.io/badge/-SciPy-05122A?style=flat&logo=scipy"/>
-</a> &nbsp;
-
-<a href="https://pytorch.org/">
-  <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=PyTorch"/>
-</a> &nbsp;
-
-<a href="https://www.tensorflow.org/">
-  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow"/>
-</a> &nbsp;
-
-<a href="https://git-scm.com/">
-  <img alt="Git" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
-</a> &nbsp;
-
-<a href="https://github.com/">
-  <img alt="GitHub" src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=github"/>
-</a> &nbsp;
-
-<a href="https://www.arduino.cc/">
-  <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=Arduino"/>
-</a>
+[![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=Arduino)](https://www.arduino.cc/) &nbsp;
 
 # 📊 GitHub Stats:
 
