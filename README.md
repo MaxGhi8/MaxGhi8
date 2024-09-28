@@ -4,8 +4,10 @@ small introduction
 
 ### 📫 &nbsp; How to reach me:
 
-<a href="https://www.linkedin.com/in/Massimiliano-Ghiotto/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/> <a/>
-<a href="mailto:massimiliano.ghiotto00@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /><a/><a href="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/><img alt="Instagram" src="https://instagram.com/mateMATTIci"/><a/><a href="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/><img alt="Youtube" src="https://youtube.com/@UCriyKfaUh1k8QgyN8cCwx4A"/>
+<a href="https://www.linkedin.com/in/Massimiliano-Ghiotto/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/><a/> &nbsp;
+<a href="mailto:massimiliano.ghiotto00@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /><a/> &nbsp;
+<a href="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/><img alt="Instagram" src="https://instagram.com/mateMATTIci"/><a/> &nbsp;
+<a href="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/><img alt="Youtube" src="https://youtube.com/@UCriyKfaUh1k8QgyN8cCwx4A"/> <a/> &nbsp;
 
 # 💻 Tech Stack:
 
