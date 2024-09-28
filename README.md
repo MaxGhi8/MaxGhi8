@@ -58,7 +58,7 @@ small introduction
 
 <a href="https://expo.dev/">
   <img alt="Expo" src="https://img.shields.io/badge/-Expo-05122A?style=flat&logo=expo"/>
-</a> &nbsp;
+</a>;
 
 <a href="https://www.npmjs.com/">
   <img alt="NPM" src="https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm"/>
