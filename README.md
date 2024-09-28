@@ -15,11 +15,11 @@ small introduction
 ### **Programming Languages**
 
 [![Julia](https://img.shields.io/badge/-Julia-05122A?style=flat&logo=julia)](https://julialang.org/) &nbsp;
-[![LEAN](https://img.shields.io/badge/-LEAN-05122A?style=flat&logo=lean)](https://leanprover.github.io/) &nbsp;  
-[![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?style=flat&logo=latex)](https://www.latex-project.org/) &nbsp;  
-[![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)](https://daringfireball.net/projects/markdown/) &nbsp;  
-[![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)](https://www.python.org/doc/) &nbsp;  
-[![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)](https://www.typescriptlang.org/) &nbsp;  
+[![LEAN](https://img.shields.io/badge/-LEAN-05122A?style=flat&logo=lean)](https://leanprover.github.io/) &nbsp;
+[![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?style=flat&logo=latex)](https://www.latex-project.org/) &nbsp;
+[![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)](https://daringfireball.net/projects/markdown/) &nbsp;
+[![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)](https://www.python.org/doc/) &nbsp;
+[![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)](https://www.typescriptlang.org/) &nbsp;
 [![JavaScript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &nbsp;
 
 ---
