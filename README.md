@@ -14,7 +14,7 @@ small introduction
 
 ### **Programming Languages**
 
-[![Julia](https://img.shields.io/badge/-Julia-05122A?style=flat&logo=julia)](https://julialang.org/) &nbsp;  
+[![Julia](https://img.shields.io/badge/-Julia-05122A?style=flat&logo=julia)](https://julialang.org/) &nbsp;
 [![LEAN](https://img.shields.io/badge/-LEAN-05122A?style=flat&logo=lean)](https://leanprover.github.io/) &nbsp;  
 [![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?style=flat&logo=latex)](https://www.latex-project.org/) &nbsp;  
 [![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)](https://daringfireball.net/projects/markdown/) &nbsp;  
@@ -26,14 +26,14 @@ small introduction
 
 ### **Web Development**
 
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)](https://getbootstrap.com/) &nbsp;  
-[![CSS3](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS) &nbsp;  
-[![Expo](https://img.shields.io/badge/-Expo-05122A?style=flat&logo=expo)](https://expo.dev/) &nbsp;  
-[![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)](https://firebase.google.com/) &nbsp;  
-[![HTML5](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML) &nbsp;  
-[![NPM](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm)](https://www.npmjs.com/) &nbsp;  
-[![P5js](https://img.shields.io/badge/-p5.js-05122A?style=flat&logo=p5.js)](https://p5js.org/) &nbsp;  
-[![React Native](https://img.shields.io/badge/-React_native-05122A?style=flat&logo=react)](https://reactnative.dev/) &nbsp;  
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)](https://getbootstrap.com/) &nbsp;
+[![CSS3](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS) &nbsp;
+[![Expo](https://img.shields.io/badge/-Expo-05122A?style=flat&logo=expo)](https://expo.dev/) &nbsp;
+[![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)](https://firebase.google.com/) &nbsp;
+[![HTML5](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML) &nbsp;
+[![NPM](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm)](https://www.npmjs.com/) &nbsp;
+[![P5js](https://img.shields.io/badge/-p5.js-05122A?style=flat&logo=p5.js)](https://p5js.org/) &nbsp;
+[![React Native](https://img.shields.io/badge/-React_native-05122A?style=flat&logo=react)](https://reactnative.dev/) &nbsp;
 [![TailwindCSS](https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=tailwind-css)](https://tailwindcss.com/) &nbsp;
 
 ---
@@ -46,24 +46,24 @@ small introduction
 
 ### **Data Science**
 
-[![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda)](https://www.anaconda.com/) &nbsp;  
-[![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=Matplotlib)](https://matplotlib.org/) &nbsp;  
-[![NumPy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy)](https://numpy.org/) &nbsp;  
-[![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)](https://pandas.pydata.org/) &nbsp;  
+[![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda)](https://www.anaconda.com/) &nbsp;
+[![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=Matplotlib)](https://matplotlib.org/) &nbsp;
+[![NumPy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy)](https://numpy.org/) &nbsp;
+[![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)](https://pandas.pydata.org/) &nbsp;
 [![Scipy](https://img.shields.io/badge/-SciPy-05122A?style=flat&logo=scipy)](https://www.scipy.org/) &nbsp;
 
 ---
 
 ### **Machine Learning**
 
-[![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=PyTorch)](https://pytorch.org/) &nbsp;  
+[![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=PyTorch)](https://pytorch.org/) &nbsp;
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow)](https://www.tensorflow.org/) &nbsp;
 
 ---
 
 ### **Version Control**
 
-[![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)](https://git-scm.com/) &nbsp;  
+[![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)](https://git-scm.com/) &nbsp;
 [![GitHub](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github)](https://github.com/) &nbsp;
 
 ---
@@ -76,7 +76,7 @@ small introduction
 
 ### **Design Tools**
 
-[![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=Canva)](https://www.canva.com/) &nbsp;  
+[![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=Canva)](https://www.canva.com/) &nbsp;
 [![Gimp](https://img.shields.io/badge/-Gimp-05122A?style=flat&logo=gimp)](https://www.gimp.org/) &nbsp;
 
 # 📊 GitHub Stats:
