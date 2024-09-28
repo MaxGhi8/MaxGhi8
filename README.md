@@ -16,30 +16,37 @@ small introduction
 ![Julia](https://img.shields.io/badge/-Julia-05122A?style=flat&logo=julia) &nbsp;
 ![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript) &nbsp;
 ![JavaScript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript) &nbsp;
-![HTML5](https://img.shields.io/badge/-Html5-05122A?style=flat&logo=html5) &nbsp;
-![CSS3](https://img.shields.io/badge/-Css3-05122A?style=flat&logo=css3) &nbsp;
+![HTML5](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5) &nbsp;
+![CSS3](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3) &nbsp;
 ![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?style=flat&logo=latex) &nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown) &nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase) &nbsp;
-![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda) &nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap) &nbsp;
-![Expo](https://img.shields.io/badge/-Expo-05122A?style=flat&logo=expo) &nbsp;
-![NPM](https://img.shields.io/badge/NPM-05122A?style=flat&logo=npm) &nbsp;
-![P5js](https://img.shields.io/badge/-p5.js-05122A?style=flat&logo=p5.js) &nbsp;
+
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) &nbsp;
 ![React Native](https://img.shields.io/badge/-React_native-05122A?style=flat&logo=react) &nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase) &nbsp;
+![Expo](https://img.shields.io/badge/-Expo-05122A?style=flat&logo=expo) &nbsp;
+![NPM](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm) &nbsp;
+![P5js](https://img.shields.io/badge/-p5.js-05122A?style=flat&logo=p5.js) &nbsp;
 ![TailwindCSS](https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=tailwind-css) &nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap) &nbsp;
+
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql) &nbsp;
+
 ![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=Canva) &nbsp;
 ![Gimp](https://img.shields.io/badge/-Gimp-05122A?style=flat&logo=gimp) &nbsp;
+
+![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda) &nbsp;
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=Matplotlib) &nbsp;
 ![NumPy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy) &nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas) &nbsp;
-![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=PyTorch) &nbsp;
 ![Scipy](https://img.shields.io/badge/-SciPy-05122A?style=flat&logo=scipy) &nbsp;
+
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=PyTorch) &nbsp;
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow) &nbsp;
+
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) &nbsp;
 ![GitHub](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github) &nbsp;
+
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=Arduino) &nbsp;
 
 # 📊 GitHub Stats:
