@@ -1,4 +1,4 @@
-![BannerPNG](https://github.com/MaxGhi8/MaxGhi8/blob/main/banner.png)
+![BannerPNG](https://github.com/MaxGhi8/MaxGhi8/blob/main/banner2.jpeg)
 
 # 👨🏻‍💻 About Me
 
