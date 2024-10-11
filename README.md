@@ -19,6 +19,7 @@
 
 [![Julia](https://img.shields.io/badge/-Julia-05122A?style=flat&logo=julia)](https://julialang.org/) &nbsp;
 [![LEAN](https://img.shields.io/badge/-LEAN-05122A?style=flat&logo=lean)](https://leanprover.github.io/) &nbsp;
+[![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=matlab)](https://it.mathworks.com/products/matlab.html) &nbsp;
 [![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)](https://www.python.org/doc/) &nbsp;
 [![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)](https://www.typescriptlang.org/) &nbsp;
 [![JavaScript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &nbsp;
