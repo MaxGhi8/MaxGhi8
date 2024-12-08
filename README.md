@@ -1,4 +1,4 @@
-![BannerPNG](https://github.com/MaxGhi8/MaxGhi8/blob/main/banner2.jpeg)
+<!-- ![BannerPNG](https://github.com/MaxGhi8/MaxGhi8/blob/main/banner2.jpeg) -->
 
 # 👨🏻‍💻 About Me
 
@@ -17,12 +17,12 @@
 
 #### **Programming Languages**
 
+[![JavaScript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &nbsp;
 [![Julia](https://img.shields.io/badge/-Julia-05122A?style=flat&logo=julia)](https://julialang.org/) &nbsp;
 [![LEAN](https://img.shields.io/badge/-LEAN-05122A?style=flat&logo=lean)](https://leanprover.github.io/) &nbsp;
 [![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=matlab)](https://it.mathworks.com/products/matlab.html) &nbsp;
 [![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)](https://www.python.org/doc/) &nbsp;
 [![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)](https://www.typescriptlang.org/) &nbsp;
-[![JavaScript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &nbsp;
 
 #### **Web Development**
 
@@ -48,6 +48,7 @@
 
 [![JAX](https://img.shields.io/badge/-JAX-05122A?style=flat&logo=google)](https://jax.readthedocs.io/en/latest/) &nbsp;
 [![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=PyTorch)](https://pytorch.org/) &nbsp;
+[![Ray-tune](https://img.shields.io/badge/-Ray-05122A?style=flat&logo=Ray)](https://docs.ray.io/en/latest/tune/index.html) &nbsp;
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow)](https://www.tensorflow.org/) &nbsp;
 
 #### **Scientific Programs**
