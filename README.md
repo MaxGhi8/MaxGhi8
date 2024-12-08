@@ -69,8 +69,8 @@
 [![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-05122A?style=flat&logo=jupyter)](https://jupyter.org/) &nbsp;
 [![Overleaf](https://img.shields.io/badge/-Overleaf-05122A?style=flat&logo=overleaf)](https://www.overleaf.com/) &nbsp;
 [![Spyder](https://img.shields.io/badge/-Spyder-05122A?style=flat&logo=spyder)](https://docs.spyder-ide.org/) &nbsp;
+[![NeoVim](https://img.shields.io/badge/-Vim-05122A?style=flat&logo=vim)](https://www.vim.org/) &nbsp;
 [![TeXStudio](https://img.shields.io/badge/-TeX_Studio-05122A?style=flat&logo=texstudio)](https://www.texstudio.org/) &nbsp;
-[![Vim](https://img.shields.io/badge/-Vim-05122A?style=flat&logo=vim)](https://www.vim.org/) &nbsp;
 [![Visual Studio](https://img.shields.io/badge/-Visual_Studio-05122A?style=flat&logo=visualstudio)](https://visualstudio.microsoft.com/) &nbsp;
 
 #### **Databases**
