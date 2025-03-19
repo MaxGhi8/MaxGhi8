@@ -1,4 +1,10 @@
 <!-- ![BannerPNG](https://github.com/MaxGhi8/MaxGhi8/blob/main/banner2.jpeg) -->
+# 📌 Pinned Repositories
+
+[![HyperNos](https://github-readme-stats.vercel.app/api/pin/?username=MaxGhi8&repo=HyperNOs&theme=dark)](https://github.com/MaxGhi8/HyperNOs)
+[![Tesi_Ghiotto](https://github-readme-stats.vercel.app/api/pin/?username=MaxGhi8&repo=Tesi_Ghiotto&theme=dark)](https://github.com/MaxGhi8/Tesi_Ghiotto)
+[![ManimAnimation](https://github-readme-stats.vercel.app/api/pin/?username=MaxGhi8&repo=ManimAnimation&theme=dark)](https://github.com/MaxGhi8/ManimAnimation)
+[![snake-js](https://github-readme-stats.vercel.app/api/pin/?username=pbignardi&repo=snake-js&theme=dark)](https://github.com/pbignardi/snake-js)
 
 # 👨🏻‍💻 About Me
 
@@ -94,4 +100,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxGhi8&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" height="195px"/>
   <img src="https://github-readme-stats.vercel.app/api?username=MaxGhi8&theme=dark&hide_border=true&include_all_commits=false&count_private=true" height="195px"/>
 </div>
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=MaxGhi8&theme=dark&hide_border=false)<br/> -->
