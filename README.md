@@ -3,8 +3,8 @@
 
 [![HyperNos](https://github-readme-stats.vercel.app/api/pin/?username=MaxGhi8&repo=HyperNOs&theme=dark)](https://github.com/MaxGhi8/HyperNOs)
 [![Tesi_Ghiotto](https://github-readme-stats.vercel.app/api/pin/?username=MaxGhi8&repo=Tesi_Ghiotto&theme=dark)](https://github.com/MaxGhi8/Tesi_Ghiotto)
-[![ManimAnimation](https://github-readme-stats.vercel.app/api/pin/?username=MaxGhi8&repo=ManimAnimation&theme=dark)](https://github.com/MaxGhi8/ManimAnimation)
-[![snake-js](https://github-readme-stats.vercel.app/api/pin/?username=pbignardi&repo=snake-js&theme=dark)](https://github.com/pbignardi/snake-js)
+<!-- [![ManimAnimation](https://github-readme-stats.vercel.app/api/pin/?username=MaxGhi8&repo=ManimAnimation&theme=dark)](https://github.com/MaxGhi8/ManimAnimation)
+[![snake-js](https://github-readme-stats.vercel.app/api/pin/?username=pbignardi&repo=snake-js&theme=dark)](https://github.com/pbignardi/snake-js) -->
 
 # 👨🏻‍💻 About Me
 
