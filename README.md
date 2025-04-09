@@ -100,3 +100,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxGhi8&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" height="195px"/>
   <img src="https://github-readme-stats.vercel.app/api?username=MaxGhi8&theme=dark&hide_border=true&include_all_commits=false&count_private=true" height="195px"/>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
