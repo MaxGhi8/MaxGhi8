@@ -101,8 +101,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MaxGhi8&theme=dark&hide_border=true&include_all_commits=false&count_private=true" height="195px"/>
 </div>
 
-<picture>
+<!-- Snake animation -->
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MaxGhi8/MaxGhi8/blob/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/MaxGhi8/MaxGhi8/blob/output/github-snake.svg" />
   <img alt="github-snake" src="https://github.com/MaxGhi8/MaxGhi8/blob/output/github-snake.svg" />
+</picture> -->
+
+<!-- Pacman Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaxGhi8/MaxGhi8/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaxGhi8/MaxGhi8/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MaxGhi8/MaxGhi8/output/pacman-contribution-graph.svg">
 </picture>
