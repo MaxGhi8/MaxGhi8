@@ -1,10 +1,10 @@
 <!-- ![BannerPNG](https://github.com/MaxGhi8/MaxGhi8/blob/main/banner2.jpeg) -->
-# 📌 Pinned Repositories
+<!-- # 📌 Pinned Repositories
 
 [![HyperNos](https://github-readme-stats.vercel.app/api/pin/?username=MaxGhi8&repo=HyperNOs&theme=dark)](https://github.com/MaxGhi8/HyperNOs)
 [![Tesi_Ghiotto](https://github-readme-stats.vercel.app/api/pin/?username=MaxGhi8&repo=Tesi_Ghiotto&theme=dark)](https://github.com/MaxGhi8/Tesi_Ghiotto)
 [![ManimAnimation](https://github-readme-stats.vercel.app/api/pin/?username=MaxGhi8&repo=ManimAnimation&theme=dark)](https://github.com/MaxGhi8/ManimAnimation)
-[![snake-js](https://github-readme-stats.vercel.app/api/pin/?username=pbignardi&repo=snake-js&theme=dark)](https://github.com/pbignardi/snake-js)
+[![snake-js](https://github-readme-stats.vercel.app/api/pin/?username=pbignardi&repo=snake-js&theme=dark)](https://github.com/pbignardi/snake-js) -->
 
 # 👨🏻‍💻 About Me
 
@@ -13,7 +13,6 @@
 💻 &nbsp; In my free time, I enjoy playing **volleyball**, **Valorant**, **horse riding**, and deepening my knowledge of **informatics**.\
 ✍️ &nbsp; Feel free to reach out for collaborations or discussions on these topics. You can contact me at **massimiliano.ghiotto00@gmail.com**.\
 💬 How to reach me:
-
 <a href="mailto:massimiliano.ghiotto00@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail"/></a> &nbsp;
 <a href="https://youtube.com/@UCriyKfaUh1k8QgyN8cCwx4A"><img alt="YouTube" src="https://img.shields.io/badge/-YouTube-05122A?style=flat&logo=YouTube"/></a> &nbsp;
 <a href="https://www.linkedin.com/in/Massimiliano-Ghiotto/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-05122A?&style=flat&logo=linkedin"/></a> &nbsp;
