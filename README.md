@@ -110,7 +110,7 @@
 
 <!-- Pacman Animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaxGhi8/MaxGhi8/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaxGhi8/MaxGhi8/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MaxGhi8/MaxGhi8/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MaxGhi8/MaxGhi8/blob/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MaxGhi8/MaxGhi8/blob/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://github.com/MaxGhi8/MaxGhi8/blob/output/pacman-contribution-graph.svg">
 </picture>
